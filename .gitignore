@@ -1,0 +1,9 @@
+# Ignore SQL dump files
+**/*.sql
+!init-scripts/kenyaemr-etl-init.sql
+**/*.sql.gz
+!init-scripts/kenyaemr-etl-init.sql.gz
+# Environment files
+.env
+.env.local
+.env.*.local

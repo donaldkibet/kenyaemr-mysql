@@ -1,0 +1,12 @@
+# Keep build context small
+**/.git
+**/.gitignore
+**/.DS_Store
+**/node_modules
+**/target
+**/build
+**/dist
+**/.idea
+**/.vscode
+**/.env*
+**/*.log
